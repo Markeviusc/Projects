@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Markevius n Collier",
+	"author": "Markevius Collier",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
